@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1589877999245,
+  "timestamp": 1589967762929,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,8 +12,8 @@
         "/1-es5.8ff10548e72b8f260e01.js",
         "/6-es2015.dfff39a410411f105550.js",
         "/6-es5.dfff39a410411f105550.js",
-        "/7-es2015.ea41c06f2653e962dd7d.js",
-        "/7-es5.ea41c06f2653e962dd7d.js",
+        "/7-es2015.2b8cdfa8831bf40ed9aa.js",
+        "/7-es5.2b8cdfa8831bf40ed9aa.js",
         "/favicon.ico",
         "/index.html",
         "/main-es2015.9518979a1ebfedb4329a.js",
@@ -21,8 +21,8 @@
         "/manifest.webmanifest",
         "/polyfills-es2015.0ed4e5313a48d5aed4f8.js",
         "/polyfills-es5.e3f2d497711cb6fa9cb2.js",
-        "/runtime-es2015.af845c334bf86449574c.js",
-        "/runtime-es5.af845c334bf86449574c.js",
+        "/runtime-es2015.4010ed2d0a81520cbd8a.js",
+        "/runtime-es5.4010ed2d0a81520cbd8a.js",
         "/styles.14af1b347be0197e9f8a.css"
       ],
       "patterns": []
@@ -147,8 +147,8 @@
     "/1-es5.8ff10548e72b8f260e01.js": "948f30cd3eb090da8752f2a3a978615b9fde4e44",
     "/6-es2015.dfff39a410411f105550.js": "30ecbe2e3570afbfe27cbdf89885c374fcfb9673",
     "/6-es5.dfff39a410411f105550.js": "b207391bcfbfb98a62aac9952906810cafd564b2",
-    "/7-es2015.ea41c06f2653e962dd7d.js": "48c33b0d44455de09317763d4b5cf44b80999030",
-    "/7-es5.ea41c06f2653e962dd7d.js": "44af65e584a562c973998dbf56b0a210d9d5e149",
+    "/7-es2015.2b8cdfa8831bf40ed9aa.js": "833a57a80b54f8843f19becbd9931b44bec62fa9",
+    "/7-es5.2b8cdfa8831bf40ed9aa.js": "f9bac0a9d111ccef5801e6d9363160bc588db07e",
     "/assets/audio/Alarm04.wav": "b8e21d4b09f5915d465b578999e4b7e464973815",
     "/assets/comercios/res-sancarlos_3.jpg": "190c195ea19740004b063564803604941f0e1c57",
     "/assets/css/bootstrap.min.css": "da53279c601607c8b4116f8ccf0ec8bd70215c9f",
@@ -255,14 +255,14 @@
     "/assets/js/sw-push.js": "5b880306ce2952848bfa35180955e15fbf3d55a9",
     "/assets/vendor/animate/animate.css": "46b0fff533298cbe335af21aeef1785f240b4307",
     "/favicon.ico": "e6f523b0f5fd0274a4dd69ffbc66c967658124d5",
-    "/index.html": "da4ba295a01c2d4e287ede2a983b9f0087731d71",
+    "/index.html": "5a85de0c2ab41e47466de6fb24759f5520c29839",
     "/main-es2015.9518979a1ebfedb4329a.js": "79b838ba04423a2ec05dde1fcb297d03fe15d18a",
     "/main-es5.9518979a1ebfedb4329a.js": "bf6114982d416ecd295942443cc315ff55f9a023",
     "/manifest.webmanifest": "608fe362d8ea228b4993755b0df0d03046eaccf8",
     "/polyfills-es2015.0ed4e5313a48d5aed4f8.js": "15a133b6cbb459a66fcd2e75f6aa25782e5d79c4",
     "/polyfills-es5.e3f2d497711cb6fa9cb2.js": "d19bd07a2df96a0ead5793f7ee6f6532af66d7c3",
-    "/runtime-es2015.af845c334bf86449574c.js": "33a3d3fd100545d54065477d51a7e4175ad143c1",
-    "/runtime-es5.af845c334bf86449574c.js": "d80f341a690215c2684f55817de65b7aa4c649e6",
+    "/runtime-es2015.4010ed2d0a81520cbd8a.js": "69e37fca4c2075af8c1250e7524c6ceac4e6c605",
+    "/runtime-es5.4010ed2d0a81520cbd8a.js": "1a3ea585421954321a2e22f094d713c4dfe45d5f",
     "/styles.14af1b347be0197e9f8a.css": "46eb6e3ee67fc14b774500c531441ec717dc3082"
   },
   "navigationUrls": [
