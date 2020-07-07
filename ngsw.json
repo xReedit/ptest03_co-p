@@ -1,29 +1,32 @@
 {
   "configVersion": 1,
-  "timestamp": 1594022094905,
+  "timestamp": 1594102085722,
   "index": "/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
       "urls": [
-        "/1-es2015.2c97668521e90a32d242.js",
-        "/1-es5.2c97668521e90a32d242.js",
-        "/6-es2015.ebb1ac86b6b323036b7c.js",
-        "/6-es5.ebb1ac86b6b323036b7c.js",
-        "/7-es2015.06e3c608428b5358b91c.js",
-        "/7-es5.06e3c608428b5358b91c.js",
+        "/1-es2015.e1a86cd70867d3b525a5.js",
+        "/1-es5.e1a86cd70867d3b525a5.js",
+        "/6-es2015.8e0e94898400b341beae.js",
+        "/6-es5.8e0e94898400b341beae.js",
+        "/7-es2015.82b0048fcdbdce39c1f7.js",
+        "/7-es5.82b0048fcdbdce39c1f7.js",
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.658fdf219379d430edbb.js",
-        "/main-es5.658fdf219379d430edbb.js",
+        "/main-es2015.0387765aa3571ceeade6.js",
+        "/main-es5.0387765aa3571ceeade6.js",
         "/manifest.webmanifest",
-        "/polyfills-es2015.0ed4e5313a48d5aed4f8.js",
-        "/polyfills-es5.e3f2d497711cb6fa9cb2.js",
-        "/runtime-es2015.bf127db01d231640c792.js",
-        "/runtime-es5.bf127db01d231640c792.js",
-        "/styles.9a0684156429cac16930.css"
+        "/polyfills-es2015.3bfa7f4efadcece3ff0b.js",
+        "/polyfills-es5.96d6e807c629da26673e.js",
+        "/runtime-es2015.ff7123e03a72384e7763.js",
+        "/runtime-es5.ff7123e03a72384e7763.js",
+        "/styles.ba8844871663b2178bd6.css"
       ],
       "patterns": []
     },
@@ -31,6 +34,9 @@
       "name": "assets",
       "installMode": "lazy",
       "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
       "urls": [
         "/assets/audio/Alarm04.wav",
         "/assets/comercios/res-sancarlos_3.jpg",
@@ -143,12 +149,12 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/1-es2015.2c97668521e90a32d242.js": "3058bcbcde17dcef1ecf1bf136be7830af23e568",
-    "/1-es5.2c97668521e90a32d242.js": "a4d526100af5d1d23b39d54ce846eded2e5eaf4d",
-    "/6-es2015.ebb1ac86b6b323036b7c.js": "309d3493d1a9137027034cd9dbf92a5456ced300",
-    "/6-es5.ebb1ac86b6b323036b7c.js": "b166fc8c0d8ad4ea3289cf287baeafebee45a21f",
-    "/7-es2015.06e3c608428b5358b91c.js": "8a36e4888e093b69bc512c85c165bd0f51167d1d",
-    "/7-es5.06e3c608428b5358b91c.js": "d7825261197c7675c148014d1fe72191a6937b21",
+    "/1-es2015.e1a86cd70867d3b525a5.js": "fa30c0103a4fd6f4cca15bc750be57cdada901a9",
+    "/1-es5.e1a86cd70867d3b525a5.js": "b0ae5d690659e014d48a31b201533af4587bac76",
+    "/6-es2015.8e0e94898400b341beae.js": "202ed117f880dd174d77e3d791f2b98a3506d181",
+    "/6-es5.8e0e94898400b341beae.js": "2fd75576ac810924c95be393995c9a0e7f1e3526",
+    "/7-es2015.82b0048fcdbdce39c1f7.js": "c9bd5d7fdecdbab308222d126f8673622092a1b9",
+    "/7-es5.82b0048fcdbdce39c1f7.js": "dd83b09b8ee4adbaadbf4befb621d58a8b4a0910",
     "/assets/audio/Alarm04.wav": "b8e21d4b09f5915d465b578999e4b7e464973815",
     "/assets/comercios/res-sancarlos_3.jpg": "190c195ea19740004b063564803604941f0e1c57",
     "/assets/css/bootstrap.min.css": "da53279c601607c8b4116f8ccf0ec8bd70215c9f",
@@ -255,15 +261,15 @@
     "/assets/js/sw-push.js": "5b880306ce2952848bfa35180955e15fbf3d55a9",
     "/assets/vendor/animate/animate.css": "46b0fff533298cbe335af21aeef1785f240b4307",
     "/favicon.ico": "e6f523b0f5fd0274a4dd69ffbc66c967658124d5",
-    "/index.html": "b35d71913ac4ff042d6080d1ce95a893a9f22e7a",
-    "/main-es2015.658fdf219379d430edbb.js": "712d3b924510be4fcc7a9e64b4632f81b353effe",
-    "/main-es5.658fdf219379d430edbb.js": "a866d50a6d1c442c4317a438aed2aa6f168cbfe7",
+    "/index.html": "4e0b2c5eb1f26be76b5bcf0007db4b7894cbb6d9",
+    "/main-es2015.0387765aa3571ceeade6.js": "8ba37a34023701380a0b3db575cf63775c6b79d4",
+    "/main-es5.0387765aa3571ceeade6.js": "5e03057fda06f3f4d981e01c42cbeaf08623928c",
     "/manifest.webmanifest": "608fe362d8ea228b4993755b0df0d03046eaccf8",
-    "/polyfills-es2015.0ed4e5313a48d5aed4f8.js": "15a133b6cbb459a66fcd2e75f6aa25782e5d79c4",
-    "/polyfills-es5.e3f2d497711cb6fa9cb2.js": "d19bd07a2df96a0ead5793f7ee6f6532af66d7c3",
-    "/runtime-es2015.bf127db01d231640c792.js": "55c057f8fce5fd90dd6af5e2569189ff250e3652",
-    "/runtime-es5.bf127db01d231640c792.js": "bb45849799aa89d4887d1eba48b342a2aa9c73f8",
-    "/styles.9a0684156429cac16930.css": "5e05fdd65a191321bb240ab64291359747ac728c"
+    "/polyfills-es2015.3bfa7f4efadcece3ff0b.js": "15a133b6cbb459a66fcd2e75f6aa25782e5d79c4",
+    "/polyfills-es5.96d6e807c629da26673e.js": "fa3bf272a1e824914b09f5157d382f2ebc96e623",
+    "/runtime-es2015.ff7123e03a72384e7763.js": "28896b44320007c502a77af60600ea4128d37232",
+    "/runtime-es5.ff7123e03a72384e7763.js": "b52d95ed60a39d48c627fdd6d1f91867f1b59d20",
+    "/styles.ba8844871663b2178bd6.css": "153eb23c58095a056a2ff32460930850a2afb16d"
   },
   "navigationUrls": [
     {
